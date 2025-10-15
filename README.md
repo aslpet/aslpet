@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi!👋 My name is Ahmad Rafi. An undergraduate student in his 2nd year at Information Technology ITS.
 
 <!--
 **aslpet/aslpet** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
